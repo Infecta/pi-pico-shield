@@ -1,0 +1,5 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "RPi_Pico")(type "KiCad")(uri "${KIPRJMOD}/RP_Silicon_KiCad/KiCadLibraries/MCU_RaspberryPi_and_Boards.pretty")(options "")(descr ""))
+  (lib (name "noelle_logo")(type "KiCad")(uri "${KIPRJMOD}/noelle_logo.pretty")(options "")(descr ""))
+)
