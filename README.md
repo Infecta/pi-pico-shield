@@ -16,4 +16,4 @@ Gerbers are stored in the `_prod` folder of the repo as `gerbers.zip`
 In JLCPCB you can pretty much get away with the default options offered by the site. Im not sure about other PCB manufacturing services so do your research.
 
 
-(I don't have proper time for crediting people in this README at the moment)
+(I don't have proper time for crediting people in this README at the moment *im sorry*)
