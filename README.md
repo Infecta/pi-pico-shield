@@ -1,6 +1,6 @@
 ## pi-pico-shield
 
-A shield for the Raspberry Pi Pico for use as a game controller with SpeedyPotato's Pico-Game-Controller firmwarehttps://github.com/speedypotato/Pico-Game-Controller
+A shield for the Raspberry Pi Pico for use as a game controller with [SpeedyPotato's Pico-Game-Controller firmware](https://github.com/speedypotato/Pico-Game-Controller)
 
 ![board_image](./repo_images/3d_view.png)
 
